@@ -1,6 +1,6 @@
 # THE CLOUD
 
-[](https://s27389.pcdn.co/wp-content/uploads/2019/12/predictions-for-cloud-in-2020-1024x440.jpeg)
+![](https://www.flownetworks.co.uk/wp-content/uploads/2018/10/move-your-small-business-to-the-cloud.jpg)
 
 when you want to know about the cloud you just need to ask [google](https://www.google.com/) believe me *it your good friend* 
 
