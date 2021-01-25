@@ -5,4 +5,5 @@
 - allways give your self  new challenges
 - accept criticism and work to improve yourself
 - never forget * “no pain, no gain” * so keep the hard working
+
 *If you want to know more information just search on [google](https://www.google.com/)*
