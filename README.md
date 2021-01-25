@@ -4,4 +4,4 @@
 ## _ how to keep yourself in a growth mindset ? _
 - allways give your self  new challenges
 - accept criticism and work to improve yourself
-- never forget “no pain, no gain” so keep the hard working
+- never forget * “no pain, no gain” * so keep the hard working
