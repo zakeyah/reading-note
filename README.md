@@ -6,7 +6,18 @@
 - accept criticism and work to improve yourself
 - never forget * “no pain, no gain” * so keep the hard working
 
+
+
 *If you want to know more information just search on [google](https://www.google.com/)*
 
 
 **Iam zakeyah abo yasein and my  GitHub portfolio page is [zakeyah](https://github.com/zakeyah)**
+
+  
+***Iam zakeyah abu yasein, i am 27 years old , i studied counseling and mental health in the university of jordan**
+
+**table**
+read this | link 
+read 1    |  [link](https://zakeyah.github.io/reading-note/read-1)
+read 2    | [link](https://zakeyah.github.io/reading-note/read-2)
+
