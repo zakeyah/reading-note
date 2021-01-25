@@ -18,9 +18,11 @@
 
 **table**
 
-|read this|link|
-|read 1|[link](https://zakeyah.github.io/reading-note/read-1)|
-|read 2|[link](https://zakeyah.github.io/reading-note/read-2)|
+| read this   | link |
+| ----------- | ----------- |
+| read-1      | [link](https://zakeyah.github.io/reading-note/read-1)  |
+| read-2      | [link](https://zakeyah.github.io/reading-note/read-2)  |
+
 
 
 
