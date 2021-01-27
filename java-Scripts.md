@@ -25,4 +25,4 @@
 
 
 
-***And if you want to n know about **JavaScript** you just need to search about it in [google](https://www.google.com/) and you will find everything you need***
+***And if you want to n know about JavaScript you just need to search about it in [google](https://www.google.com/) and you will find everything you need***
