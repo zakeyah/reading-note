@@ -3,11 +3,26 @@
 
 # at first in this chapter it start to talk about comparison operators :
 - ## Evaluating conditions such like :
-* == is equal
-* != is not equal
-* === strict equal
-* !== strict not equal
-* > greater than
-* < less than
-* >= greater than or equal
-* <= less than or equal
+* (==) is equal
+* (!=) is not equal
+* (===) strict equal
+* (!==) strict not equal
+* (>) greater than
+* (<) less than
+* (>=) greater than or equal
+* (<=) less than or equal
+
+- # Then it talk about logical operators :
+* && logical and
+* || logical or
+* ! logical not
+
+# Now lets talk about **loob** ther are two kind of loobs :
+
+![](https://miro.medium.com/max/1116/1*m3FCII8jirPfanBHqnvbAg.png)
+ 
+
+![](https://tutorial.techaltum.com/images/javascript-loops.jpg)
+ 
+
+
