@@ -13,9 +13,9 @@
 * (<=) less than or equal
 
 - # Then it talk about logical operators :
-* && logical and
-* || logical or
-* ! logical not
+* (&&) logical and
+* (||) logical or
+* (!) logical not
 
 # Now lets talk about **loob** ther are two kind of loobs :
 
