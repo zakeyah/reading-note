@@ -16,7 +16,7 @@
   
 ***Iam zakeyah abu yasein, i am 27 years old , i studied counseling and mental health in the university of jordan**
 
-**table**
+**102 reading notes**
 
 | read this   | link |
 | ----------- | ----------- |
@@ -28,3 +28,26 @@
 | css         | [css](css)                                 |
 | function    | [function](function)                                                 |
 
+
+
+
+
+**201 reading notes**
+
+| read this   | link |
+| ----------- | ----------- |
+| read-1      | [class-01](class-01)        |
+| read-2      | []()        |
+| read-3      | []()        |
+| read-4      | []()        |
+| read-5      | []()        |
+| read-6      | []()        |
+| read-7      | []()        |
+| read-8      | []()        |
+| read-9      | []()        |
+| read-10     | []()        |
+| read-11     | []()        |
+| read-12     | []()        |
+| read-13     | []()        |
+| read-14     | []()        |
+| read-15     | []()        |
