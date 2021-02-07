@@ -1,22 +1,16 @@
 
 
-| read this   | link |
+|             |             |
 | ----------- | ----------- |
 | Headings      | (h1 , h2 ,h3 ,h4 , h5 , h5 ,h6)       |
 | paragraph      |(p)        |
 | Bold           | (b)        |
 | Italic         | (i)        |
 | add a line break inside the middle of a paragraph        | (br /)        |
-|n add a horizontal rule between sections                | (hr /)        |
-| read-7      | []()        |
-| read-8      | []()        |
-| read-9      | []()        |
-| read-10     | []()        |
-| read-11     | []()        |
-| read-12     | []()        |
-| read-13     | []()        |
-| read-14     | []()        |
-| read-15     | []()        |
+| add a horizontal rule between sections                | (hr /)        |
+|  indicates that its content has strong importance      | (strong)        |
+|  is used to specify the full term.             | (abbr)        |
+
 
  #  A CSS rule contains two parts: a selector and a declaration.
  # CSS declarations sit inside curly brackets and each is made up of two parts: a property and a value
@@ -63,11 +57,11 @@ just store one value; it stores a list of values.
 * (>=) greater than or equal
 * (<=) less than or equal
 
-#  # Then it talk about logical operators :
+#  # what is the logical operators ?
 * (&&) logical and
 * (||) logical or
 * (!) logical not
 
-#  IF STATEMENTS & ELSE STATEMENTS  
+# HOW WE WRITE IF STATEMENTS & ELSE STATEMENTS  
 ![](https://cdn.programiz.com/sites/tutorial2program/files/java-if-else-if-statement.png)
 
