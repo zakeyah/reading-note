@@ -40,7 +40,7 @@
 | read-2      | [class-02](class-02)        |
 | read-3      | [class-03](class-03)        |
 | read-4      | [class-04](class-04)        |
-| read-5      | []()        |
+| read-5      | [class-05](class-05)        |
 | read-6      | []()        |
 | read-7      | []()        |
 | read-8      | []()        |
