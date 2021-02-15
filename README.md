@@ -43,7 +43,7 @@
 | read-5      | [class-05](class-05)        |
 | read-6      | [class-06](class-06)        |
 | read-7      | [class-07](class-07)        |
-| read-8      | []()        |
+| read-8      | [class-08](class-08)        |
 | read-9      | []()        |
 | read-10     | []()        |
 | read-11     | []()        |
