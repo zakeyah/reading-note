@@ -22,20 +22,20 @@
 
 | read this   | link |
 | ----------- | ----------- |
-| read-1      | [class-01](class-01)        |
-| read-2      | [class-02](class-02)        |
-| read-3      | [class-03](class-03)        |
-| read-4      | [class-04](class-04)        |
-| read-5      | [class-05](class-05)        |
-| read-6      | [class-06](class-06)        |
-| read-7      | [class-07](class-07)        |
-| read-8      | [class-08](class-08)        |
-| read-9      | [class-09](class-09)        |
-| read-10     | [class-10](class-10)        |
-| read-11     | [class-11](class-11)        |
-| read-12     | [class-12](class-12)        |
-| read-13     | [class-13](class-13)        |
-| read-14     | [class-14](class-14)        |
+| read-1      | [class-01](201/class-01)        |
+| read-2      | [class-02](201/class-02)        |
+| read-3      | [class-03](201/class-03)        |
+| read-4      | [class-04](201/class-04)        |
+| read-5      | [class-05](201/class-05)        |
+| read-6      | [class-06](201/class-06)        |
+| read-7      | [class-07](201/class-07)        |
+| read-8      | [class-08](201/class-08)        |
+| read-9      | [class-09](201/class-09)        |
+| read-10     | [class-10](201/class-10)        |
+| read-11     | [class-11](201/class-11)        |
+| read-12     | [class-12](201/class-12)        |
+| read-13     | [class-13](201/class-13)        |
+| read-14     | [class-14](201/class-14)        |
 
 
 
@@ -43,7 +43,7 @@
 
 | read this   | link |
 | ----------- | ----------- |
-| read-1      | []()        |
+| read-1      | [read-01](301/read-01)        |
 | read-2      | []()        |
 | read-3      | []()        |
 | read-4      | []()        |
