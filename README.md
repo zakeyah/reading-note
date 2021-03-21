@@ -43,8 +43,8 @@
 
 | read this   | link |
 | ----------- | ----------- |
-| read-1      | [read-01](301/read-01)        |
-| read-2      | []()        |
+| read-1      | [class-01](301/class-01)        |
+| read-2      | [class-02](301/class-02)        |
 | read-3      | []()        |
 | read-4      | []()        |
 | read-5      | []()        |
