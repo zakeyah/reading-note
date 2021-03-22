@@ -45,7 +45,7 @@
 | ----------- | ----------- |
 | read-1      | [class-01](301/class-01)        |
 | read-2      | [class-02](301/class-02)        |
-| read-3      | []()        |
+| read-3      | [class-03](301/class-03)        |
 | read-4      | []()        |
 | read-5      | []()        |
 | read-6      | []()        |
