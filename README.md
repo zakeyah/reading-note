@@ -49,7 +49,7 @@
 | read-4      | [class-04](301/class-04)        |
 | read-5      | [class-05](301/class-05)        |
 | read-6      | [class-06](301/class-06)        |
-| read-7      | []()        |
+| read-7      | [class-07](301/class-07)        |
 | read-8      | []()        |
 | read-9      | []()        |
 | read-10     | []()        |
