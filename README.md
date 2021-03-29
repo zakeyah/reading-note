@@ -50,7 +50,7 @@
 | read-5      | [class-05](301/class-05)        |
 | read-6      | [class-06](301/class-06)        |
 | read-7      | [class-07](301/class-07)        |
-| read-8      | []()        |
+| read-8      | [class-08](301/class-08)        |
 | read-9      | []()        |
 | read-10     | []()        |
 | read-11     | []()        |
