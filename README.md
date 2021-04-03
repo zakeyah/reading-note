@@ -53,7 +53,7 @@
 | read-8      | [class-08](301/class-08)        |
 | read-9      | [class-09](301/class-09)        |
 | read-10     | [class-10](301/class-10)        |
-| read-11     | []()        |
+| read-11     | [class-11](301/class-11)        |
 | read-12     | []()        |
 | read-13     | []()        |
 | read-14     | []()        |
