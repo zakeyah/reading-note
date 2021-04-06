@@ -56,7 +56,7 @@
 | read-11     | [class-11](301/class-11)        |
 | read-12     | [class-12](301/class-12)        |
 | read-13     | [class-13](301/class-13)        |
-| read-14     | []()        |
+| read-14     | [class-14](301/class-14)        |
 
 
 **Code 401 - Advanced Software Development**
