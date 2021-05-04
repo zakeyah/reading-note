@@ -67,7 +67,7 @@
 | Prep        | [Prep](401/Prep)                |
 | read-1      | [class-01](401/class-01)        |
 | read-2      | [class-02](401/class-02)        |
-| read-3      | []()        |
+| read-3      | [class-03](401/class-03)        |
 | read-4      | []()        |
 | read-5      | []()        |
 | read-6      | []()        |
