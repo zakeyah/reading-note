@@ -68,8 +68,8 @@
 | read-1      | [class-01](401/class-01)        |
 | read-2      | [class-02](401/class-02)        |
 | read-3      | [class-03](401/class-03)        |
-| read-4      | [class-04](401/class-04        |
-| read-5      | []()        |
+| read-4      | [class-04](401/class-04)        |
+| read-5      | [class-05](401/class-05)        |
 | read-6      | []()        |
 | read-7      | []()        |
 | read-8      | []()        |
