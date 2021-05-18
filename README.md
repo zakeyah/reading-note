@@ -73,7 +73,7 @@
 | read-6      | [class-06](401/class-06)        |
 | read-7      | [class-07](401/class-07)        |
 | read-8      | [class-08](401/class-08)        |
-| read-9      | []()        |
+| read-9      | [class-09](401/class-09)        |
 | read-10     | []()        |
 | read-11     | []()        |
 | read-12     | []()        |
