@@ -82,3 +82,5 @@
 | read-15     | [class-15](401/class-15)        |
 | read-16     | [class-16](401/class-16)        |
 | read-17     | [class-17](401/class-17)        |
+| read-18     | [class-17](401/class-18)        |
+| read-19     | [class-17](401/class-19)        |
