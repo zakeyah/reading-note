@@ -86,3 +86,4 @@
 | read-19     | [class-19](401/class-19)        |
 | read-26     | [class-26](401/class-26)        |
 | read-27     | [class-27](401/class-27)        |
+| read-28     | [class-28](401/class-28)        |
