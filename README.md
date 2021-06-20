@@ -90,3 +90,4 @@
 | read-29     | [class-29](401/class-29)        |
 | read-30     | [class-30](401/class-30)        |
 | read-31     | [class-31](401/class-31)        |
+| read-32     | [class-32](401/class-32)        |
