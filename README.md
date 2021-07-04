@@ -98,5 +98,6 @@
 | read-37     | [class-37](401/class-37)        |
 | read-38     | [class-38](401/class-38)        |
 | read-41     | [class-41](401/class-41)        |
+| read-42     | [class-42](401/class-42)        |
 
 
